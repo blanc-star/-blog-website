@@ -1,0 +1,36 @@
+nav {
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    background-color: #ddd;
+}
+body{
+    background-color: bisque;
+    box-shadow: ;
+}
+h1{
+    color: maroon;
+    background-color: antiquewhite;
+    padding: 10px;
+    font: 10px;
+}

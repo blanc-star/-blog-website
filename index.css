@@ -1,0 +1,14 @@
+body{
+    background-color:burlywood;
+    font-family: Tohama;
+    padding: 20px;
+    font: 20px;
+    padding: 20px;
+}
+h1{
+    background-color: rgb(150, 121, 105);
+    font-size: 40px;
+    box-shadow: 5px 5px 5px 5px rgb(255, 253, 208);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
